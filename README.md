@@ -29,7 +29,7 @@ Both **Speech Enhancement Concatenation** and **End-to-End Denoising Training** 
 ## Code
 
 - AdaIN-VC
-  - AdaIN-VC/ : training AdaIN-VC
+  - AdaIN-VC/: training AdaIN-VC
   - AdaIN-VC-robust/: training AdaIN-VC with data augmentation
   - Reference: https://github.com/cyhuang-tw/AdaIN-VC
 - S2VC
@@ -37,7 +37,7 @@ Both **Speech Enhancement Concatenation** and **End-to-End Denoising Training** 
   - S2VC-robust/: training S2VC with data augmentation
   - Reference: https://github.com/howard1337/S2VC
 - assets
-  - scripts/: scripts for creating dataset, adding noises, and speech enhancement. For more information, please refer to [example usage]().
+  - scripts/: scripts for creating dataset, adding noises, and speech enhancement. For more information, please refer to [example usage](https://github.com/cyhuang-tw/robust-vc/tree/main/assets).
   - VCTK_split.py: train / valid / test dataset split used in the paper.
 - Voice-conversion-evaluation
   - objective evaluation, including calculating CER for naturalness evaluation, and SVAR for speaker similarity evaluation
